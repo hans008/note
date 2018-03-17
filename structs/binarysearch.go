@@ -1,6 +1,3 @@
-### 二分查找法
-```
-
 package main
 
 import "fmt"
@@ -38,4 +35,6 @@ func main(){
 	rst := BinarySearch(a,3)
 	fmt.Println(rst)
 }
-```
+
+
+
